@@ -9,19 +9,4 @@
 - Portfolio
 - Drag and drop interface
 
-
-### Code "Sample"
-
-#### Ruby
-```ruby 
-def my_great_method
-    puts "here it is"
-end
-```
-
-#### Fancy Javascript
-```javascript
-function my_great_method() {
-    alert("here it is again");
-}
-```
+This isn't a _real_ project. Please look away!
