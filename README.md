@@ -8,15 +8,18 @@
 - Blog
 - Portfolio
 - Drag and drop interface
-- 
-### Code Sample
 
+
+### Code "Sample"
+
+#### Ruby
 ```ruby 
 def my_great_method
     puts "here it is"
 end
 ```
 
+#### Fancy Javascript
 ```javascript
 function my_great_method() {
     alert("here it is again");
